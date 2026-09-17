@@ -1,0 +1,1 @@
+The portfolio will contain weekly reflections and progress throughout the Software Engineering module.
