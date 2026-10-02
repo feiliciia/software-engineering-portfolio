@@ -1,0 +1,4 @@
+Brief C: CampusCircle Community App
+Chosen Process Model: RAD
+
+I would choose to use the RAD model because the requirements listed in the brief are expected to change after students begin using early versions. The chosen model supports prototyping and testing, while getting the continuous feedback from students, making it suitable for adapting features. The project has a short timeline and the team wants to release a usable version within one month and launch before the next academic term, so RAD perfectly allows that. Customer involvement is also important because students are the main users and their feedback will help shape the app and the project overall has low safety risk and no major regulatory requirements, so basic data protection should be included and it is enough for project purposes.
